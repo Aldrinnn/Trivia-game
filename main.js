@@ -9,35 +9,35 @@ var questions = [
         question: "Who is Batman's butler?",
         answers: ["George", "Al", "Alfred", "Bruce"],
         correctAnswer: "Alfred",
-        image: "assets/Alfred"
+        image: "assets/Alfred.jpg"
     },
 
     {
-        question: "Which of these is NOT a name of one of the Spice Girls?",
-        answers: ["Sporty Spice", "Hot Spice", "Scary Spice", "Posh Spice"],
-        correctAnswer: "Hot Spice",
-        image: "assets/spice girls p7.gif"
+        question: "What's Batman's real name?",
+        answers: ["Blake", "Chris", "Bruce", "Clark"],
+        correctAnswer: "Bruce",
+        image: "assets/Batman.jpg"
     },
 
     {
-        question: "Which of these is NOT a name of one of the Spice Girls?",
-        answers: ["Sporty Spice", "Hot Spice", "Scary Spice", "Posh Spice"],
-        correctAnswer: "Hot Spice",
-        image: "assets/spice girls p7.gif"
+        question: "What's Superman's real name?",
+        answers: ["Bruce", "Clark", "Clert", "Blake"],
+        correctAnswer: "Clark",
+        image: "assets/Superman.jpg"
     },
 
     {
-        question: "Which of these is NOT a name of one of the Spice Girls?",
-        answers: ["Sporty Spice", "Hot Spice", "Scary Spice", "Posh Spice"],
-        correctAnswer: "Hot Spice",
-        image: "assets/spice girls p7.gif"
+        question: "What's Flash's real name?",
+        answers: ["Harry", "Barry", "Larry", "Flash"],
+        correctAnswer: "Barry",
+        image: "assets/Flash.jpg"
     },
 
     {
-        question: "Which of these is NOT a name of one of the Spice Girls?",
-        answers: ["Sporty Spice", "Hot Spice", "Scary Spice", "Posh Spice"],
-        correctAnswer: "Hot Spice",
-        image: "assets/spice girls p7.gif"
+        question: "What's Iron Man's real name?",
+        answers: ["Bony", "Rony", "Sony", "Tony"],
+        correctAnswer: "Tony",
+        image: "assets/Tony.jpg"
     }
 
 
